@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[Competition] 데이터 과학 경진대회 사이트 모음"
-subtitle:   "데이터 과학 경진대회 사이트 모음"
-categories: dev
-tags: competition list
+title:  "[Resume] 이력서"
+subtitle:   "이력서"
+categories: profile
+tags: portfolio
 comments: true
 ---
 ## 개요
