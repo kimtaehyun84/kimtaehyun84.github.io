@@ -1,3 +1,16 @@
+---
+layout: post
+title:  "[Oracle] DataBase Log"
+subtitle:   "DataBase Log"
+categories: dev
+tags: rdbms
+comments: true
+
+
+---
+
+## 
+
 ## 데이터베이스 백업
 
 #### 물리 백업
