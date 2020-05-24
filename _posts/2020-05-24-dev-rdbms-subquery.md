@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "[Oracle] 서브쿼리"
+subtitle:   "Sub Query"
+categories: dev
+tags: dev-rdbms
+comments: true
+
+---
+
 ## 서브 쿼리
 
 쿼리문 내에 다른 쿼리문이 있는 형태
